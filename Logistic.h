@@ -1,0 +1,1 @@
+int* Logistic(double x0, int m, int n, double mu);

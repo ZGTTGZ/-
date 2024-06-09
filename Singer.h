@@ -1,0 +1,1 @@
+int* Singer(double x0, int m, int n, double a);
